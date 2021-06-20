@@ -1,7 +1,7 @@
 ---
 title: Class, power and revolution in Sudan
 date: 2021/6/21
-description: http://isj.org.uk/class-power-and-revolution-in-sudan/
+description: resource: http://isj.org.uk/class-power-and-revolution-in-sudan/
 tag: Sudan
 author: Anne Alexander
 ---

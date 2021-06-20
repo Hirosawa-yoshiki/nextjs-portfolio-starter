@@ -4,6 +4,7 @@ date: 2021/6/21
 description: IRMT 第一章
 tag: RMT
 author: You
+
 ---
 
 - # Chapter 1 入门
@@ -75,8 +76,6 @@ author: You
   eig_samp_2 = hcat([eigvalrand(ensem, 10000) for ensem=[d_GOE,d_GUE,d_GSE]]...)
   density(eig_samp_2, label=["GOE" "GUE" "GSE"])
   ```
-
-
 
   以GOE为例，很显然$H_S$的非对角线元素$(H_S)_{ij}$都来自正态分布$N(0,1)$，对角线元素$(H_S)_{ii}$都来自$N(0,\frac12)$，故而联合密度为
   $$
